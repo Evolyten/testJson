@@ -1,0 +1,62 @@
+[
+    {
+        "id":1,
+        "name": "Olaf",
+        "city": "Kanzas",
+        "address": {
+            "street": "cow",
+            "building": 4,
+            "apartment": 14
+        },
+        "contact":{
+            "phone":442325343,
+            "email": "lol.kekCheburek@sobaka.com",
+            "skype": "skype1"
+        }
+},
+{
+        "id":2,
+        "name": "Shuldigun",
+        "city": "Kleinrhaus",
+        "address": {
+            "street": "dog",
+            "building": 7,
+            "apartment": 46
+        },
+        "contact":{
+            "phone":934734343,
+            "email": "opusum32@sobaka.com",
+            "skype": "skype2"
+        }
+},
+{
+        "id":3,
+        "name": "Nenfertitis",
+        "city": "Amsterdam",
+        "address": {
+            "street": "red-lights",
+            "building": 13,
+            "apartment": 69
+        },
+        "contact":{
+            "phone":6740954334,
+            "email": "lola32@sobaka.com",
+            "skype": "skype3"
+        }
+},
+{
+        "id":4,
+        "name": "Caren",
+        "city": "Washimgton",
+        "address": {
+            "street": "white-building",
+            "building": 1,
+            "apartment": 1
+        },
+        "contact":{
+            "phone":323343432323,
+            "email": "white.house@sobaka.com",
+            "skype": "skype4"
+        }
+}
+]
